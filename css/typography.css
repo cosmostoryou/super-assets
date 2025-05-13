@@ -1,16 +1,9 @@
 h1 {
-    letter-spacing: -2px !important;
     margin-top: 8px !important;
 }
 
 h3 {
-    text-transform: uppercase !important;
-    letter-spacing: 1px !important;
     margin-bottom: 12px !important;
-}
-
-p {
-    letter-spacing: -0.3px !important;
 }
 
 .notion-heading .notion-semantic-string {
