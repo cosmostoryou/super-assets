@@ -26,5 +26,5 @@ h3 {
 
 /* 段落间距调整推荐1.2em */
 .notion-text__content .notion-semantic-string:not(:last-child) {
-    margin-bottom: 3em !important;
+    margin-bottom: 20px !important;
 }
