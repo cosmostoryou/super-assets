@@ -7,12 +7,12 @@ h3 {
     margin-bottom: 12px !important;
 }
 
-p {
+.notion-text__content p {
     font-size: 17px !important;
     line-height: 1.6 !important;
-    margin-bottom: 1.2em !important; 
+    margin-bottom: 1.8em !important;
 }
-    
+
 .notion-heading .notion-semantic-string {
     line-height: 1.2 !important;
 }
