@@ -19,3 +19,12 @@ h3 {
     border-bottom: 1px solid var(--color-text-default) !important;
     cursor: pointer !important;
 }
+
+.notion-text {
+    line-height: 1.8 !important;
+}
+
+/* 段落间距调整推荐1.2em */
+.notion-text__content .notion-semantic-string:not(:last-child) {
+    margin-bottom: 1.5em !important;
+}
