@@ -9,8 +9,7 @@ h3 {
 
 p {
     line-height: 1.8 !important;
-    margin-bottom: 20px !important; /* 推荐用像素精确控制，18px约等于1.2em */
-}
+    margin-bottom: 20px !important; 
 }
     
 .notion-heading .notion-semantic-string {
